@@ -16,8 +16,8 @@ title_separator          : "-"
 subtitle                 : "Baking delicious yummy cakes by Baker Kat with a special Danish touch!"
 name                     : &name "Baker Kat" # &name is a YAML anchor which can be *referenced later
 description              : &description "Baking delicious yummy cakes by Baker Kat with a special Danish touch!"
-url                      : https://www.bakerkat.com # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : "/" # the subpath of your site, e.g. "/blog"
+url                      : https://antoniofeijaouk.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+baseurl                  : "/bakerkat-com" # the subpath of your site, e.g. "/blog"
 repository               : "AntonioFeijaoUK/bakerkat-com"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
@@ -320,5 +320,3 @@ compress_html:
   clippings: all
   ignore:
     envs: development
-
-theme: jekyll-theme-minimal
