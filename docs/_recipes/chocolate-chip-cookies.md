@@ -14,8 +14,8 @@ This recipe makes 4 dozen cookies.
 
 ## Ingredients
 
-* 2 1/4 cups all-purpose flour
-* 1 teaspoon baking soda
+- 2 1/4 cups all-purpose flour
+- 1 teaspoon baking soda
 * 1/2 teaspoon salt
 * 1 cup butter, softened and cut to pieces
 * 1 cup sugar
