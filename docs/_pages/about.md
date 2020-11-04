@@ -1,5 +1,6 @@
 ---
 permalink: /about/
+layout: default
 title: "About"
 excerpt: "BakerKat.com - Hello and Welcome to my baking world!"
 layouts_gallery:
@@ -16,4 +17,4 @@ last_modified_at: 2020-03-23T14:07:54-04:00
 toc: true
 ---
 
-Hello and Welcome to my baking world! ...
+Hello and Welcome to my baking world! ... :)
