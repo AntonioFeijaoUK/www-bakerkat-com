@@ -5,25 +5,36 @@
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # `jekyll serve`. If you change this file, please restart the server process.
 
-remote_theme             : "mmistakes/minimal-mistakes@4.20.2"
+remote_theme             : "mmistakes/minimal-mistakes"
 
 minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "en-GB"
 title                    : "BakerKat.com"
+
 title_separator          : "-"
+
 subtitle                 : "Baking delicious yummy cakes by Baker Kat with a special Danish touch!"
+
 name                     : &name "Baker Kat" # &name is a YAML anchor which can be *referenced later
+
 description              : &description "Baking delicious yummy cakes by Baker Kat with a special Danish touch!"
+
 url                      : https://bakerkat.com # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+
 baseurl                  : "/" # the subpath of your site, e.g. "/blog"
 repository               : "AntonioFeijaoUK/bakerkat-com/"
+
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
+
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
+
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
+
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
+
 comments:
   provider               : "false" # false (default), "disqus", "discourse", "facebook", "staticman_v2", "staticman", "utterances", "custom"
   disqus:
@@ -38,6 +49,7 @@ comments:
   utterances:
     theme                : # "github-light" (default), "github-dark"
     issue_term           : # "pathname" (default)
+
 reCaptcha:
   siteKey                : # "6LdRBykTAAAAAFB46MnIu6ixuxwu9W1ihFF8G60Q"
   secret                 : # "PznnZGu3P6eTHRPLORniSq+J61YEf+A9zmColXDM5icqF49gbunH51B8+h+i2IvewpuxtA9TFoK68TuhUp/X3YKmmqhXasegHYabY50fqF9nJh9npWNhvITdkQHeaOqnFXUIwxfiEeUt49Yoa2waRR7a5LdRAP3SVM8hz0KIBT4="
@@ -47,7 +59,8 @@ atom_feed:
 
 search                   : true # true, false (default)
 search_full_content      : true # true, false (default)
-search_provider          : algolia # lunr (default), algolia
+search_provider          : lunr # lunr (default), algolia
+
 algolia:
   application_id         : XXXXXXSBA # YOUR_APPLICATION_ID
   index_name             : baker_kat # YOUR_INDEX_NAME
@@ -206,6 +219,7 @@ defaults:
       comments: true
       share: true
       related: true
+      classes: wide
   # _pages
   - scope:
       path: "_pages"
@@ -213,6 +227,7 @@ defaults:
     values:
       layout: single
       author_profile: true
+      classes: wide
   # _docs
   - scope:
       path: ""
