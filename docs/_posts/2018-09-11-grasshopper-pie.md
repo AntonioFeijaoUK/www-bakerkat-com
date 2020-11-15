@@ -1,5 +1,4 @@
 ---
-layout: post
 date: 2018-09-11 13:30:00 +0000
 last_modified_at: 2018-09-11 14:30:00 +0000
 title: "Grasshopper pie"
