@@ -1,5 +1,4 @@
 ---
-layout: post
 date: 2018-06-24 13:30:00 +0000
 last_modified_at: 2018-06-24 14:30:00 +0000
 title: "Banana bread with cranberries"
