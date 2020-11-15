@@ -103,7 +103,7 @@ analytics:
 # Site Author
 author:
   name             : *name # *name is a YAML reference pointing to the &anchor earlier
-  avatar           : "/assets/images/michael-rose.jpg"
+  avatar           : "/assets/images/kat-photo-kitchen.jpg"
   bio              : "Yummy baker"
   location         : "London, UK"
   links:
