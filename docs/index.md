@@ -1,5 +1,6 @@
 ---
 layout: home
+author: true
 paginate: true
 alt_title: "Baker Kat"
 sub_title: "Yummy bites!"
