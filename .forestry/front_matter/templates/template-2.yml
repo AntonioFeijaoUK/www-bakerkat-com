@@ -15,3 +15,5 @@ fields:
 - name: find_me
   type: boolean
   label: find me
+pages:
+- content/posts/page2.md
