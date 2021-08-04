@@ -2,17 +2,19 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://BakerKat.com/</loc>
+    <loc>https://bakerkat.com/</loc>
     <lastmod>2021-08-04T14:26:38+01:00</lastmod>
   </url><url>
-    <loc>https://BakerKat.com/posts/my-first-post/</loc>
+    <loc>https://bakerkat.com/posts/my-first-post/</loc>
     <lastmod>2021-08-04T14:26:38+01:00</lastmod>
   </url><url>
-    <loc>https://BakerKat.com/posts/</loc>
+    <loc>https://bakerkat.com/posts/</loc>
     <lastmod>2021-08-04T14:26:38+01:00</lastmod>
   </url><url>
-    <loc>https://BakerKat.com/categories/</loc>
+    <loc>https://bakerkat.com/posts/page2/</loc>
   </url><url>
-    <loc>https://BakerKat.com/tags/</loc>
+    <loc>https://bakerkat.com/categories/</loc>
+  </url><url>
+    <loc>https://bakerkat.com/tags/</loc>
   </url>
 </urlset>

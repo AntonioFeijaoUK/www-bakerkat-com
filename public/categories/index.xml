@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Categories on Baker Kat, delicious danish baking goods</title>
-    <link>https://BakerKat.com/categories/</link>
-    <description>Recent content in Categories on Baker Kat, delicious danish baking goods</description>
+    <title>Categories on Baker Kat</title>
+    <link>https://bakerkat.com/categories/</link>
+    <description>Recent content in Categories on Baker Kat</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-GB</language><atom:link href="https://BakerKat.com/categories/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-GB</language><atom:link href="https://bakerkat.com/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

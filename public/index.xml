@@ -1,19 +1,28 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Baker Kat, delicious danish baking goods</title>
-    <link>https://BakerKat.com/</link>
-    <description>Recent content on Baker Kat, delicious danish baking goods</description>
+    <title>Baker Kat</title>
+    <link>https://bakerkat.com/</link>
+    <description>Recent content on Baker Kat</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-GB</language>
-    <lastBuildDate>Wed, 04 Aug 2021 14:26:38 +0100</lastBuildDate><atom:link href="https://BakerKat.com/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 04 Aug 2021 14:26:38 +0100</lastBuildDate><atom:link href="https://bakerkat.com/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>My First Post</title>
-      <link>https://BakerKat.com/posts/my-first-post/</link>
+      <link>https://bakerkat.com/posts/my-first-post/</link>
       <pubDate>Wed, 04 Aug 2021 14:26:38 +0100</pubDate>
       
-      <guid>https://BakerKat.com/posts/my-first-post/</guid>
+      <guid>https://bakerkat.com/posts/my-first-post/</guid>
       <description>Hello World</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://bakerkat.com/posts/page2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://bakerkat.com/posts/page2/</guid>
+      <description>Hello Page 2 :)</description>
     </item>
     
   </channel>
