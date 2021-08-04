@@ -1,5 +1,4 @@
 +++
-draft = true
 find_me = false
 ok = "site 2"
 
