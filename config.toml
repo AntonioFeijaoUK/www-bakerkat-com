@@ -1,4 +1,5 @@
 baseURL = 'https://BakerKat.com/'
 languageCode = 'en-GB'
 title = 'Baker Kat, delicious danish baking goods'
-theme = "hugo-theme-stack"
+#theme = "hugo-theme-stack"
+theme = "ananke"
