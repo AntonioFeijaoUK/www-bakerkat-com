@@ -16,6 +16,7 @@ fields:
   type: boolean
   label: find me
 pages:
+- content/about.md
 - content/page2-from-forestry.io.md
 - content/posts/description-goes-in-here.md
 - content/posts/page2.md
