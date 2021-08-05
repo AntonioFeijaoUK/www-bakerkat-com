@@ -1,8 +1,6 @@
 ---
-title: "My First Post"
-date: 2021-08-04T14:26:38+01:00
-draft: false
+title: My First Post
+date: 2021-08-01T21:00:00+01:00
+
 ---
-
-Hello World
-
+my first postHello World
