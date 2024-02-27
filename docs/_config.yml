@@ -1,1 +1,6 @@
 theme: jekyll-theme-minimal
+title: Baker Kat
+#logo: /assets/img/logo.png
+description: Baker Kat, baking delicious Danish delecatises!
+show_downloads: false
+#google_analytics:
